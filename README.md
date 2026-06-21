@@ -169,15 +169,6 @@ Among all investigated models, NLARX achieved the highest prediction accuracy an
 
 ---
 
-## Author
-
-**Alika Widuri Kartika**  
-School of Electrical Engineering  
-Telkom University  
-Bandung, Indonesia
-
----
-
 ## License
 
 This project is intended for educational and research purposes.
